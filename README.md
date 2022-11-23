@@ -10,6 +10,17 @@ Nazbierať nahrávky a prepisy nahrávok, ktorých bude dostatok a s voľnou lic
 
 Taktiež na zbieranie dát ktoré sú používané slovenskými dialektami, nárečiami, prípadne slovenská rómčina.
 
+# Prechodné odkazy na možné dáta:
+
+## Librivox
+
+https://librivox.org/search?primary_key=57&search_category=language&search_page=1&search_form=get_results
+    Slovak (in Universal Declaration of Human Rights, Volume 02)
+    Complete | Collaborative | Multilingual, 326MB
+
+    Slovak - Závet (in The Testament)
+    Complete | Poetry_weekly | Multilingual, 17MB
+
 # Štruktúra
 
 ~~~
