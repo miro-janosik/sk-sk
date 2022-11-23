@@ -14,12 +14,25 @@ Taktiež na zbieranie dát ktoré sú používané slovenskými dialektami, nár
 
 ## Librivox
 
+~~~
 https://librivox.org/search?primary_key=57&search_category=language&search_page=1&search_form=get_results
+
     Slovak (in Universal Declaration of Human Rights, Volume 02)
     Complete | Collaborative | Multilingual, 326MB
 
     Slovak - Závet (in The Testament)
     Complete | Poetry_weekly | Multilingual, 17MB
+~~~
+
+## Mozzila Common Voice
+
+short sentences
+~~~
+https://commonvoice.mozilla.org/en/datasets
+
+Slovak
+Common Voice Corpus 11.0	9/21/2022	377.74 MB	Validated hours: 19	CC-0	145
+~~~
 
 # Štruktúra
 
