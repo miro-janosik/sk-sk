@@ -4,13 +4,18 @@ Repository containing source resources for training Speech-to-text (ASR) models 
 
 Repozitár obsahujúci zdrojové dáta na trénovanie modelov pre prevod Reč-do-textu.
 
+# Status
+
+Initial ideas, listing sources
+
 # Cieľ
 
-Nazbierať nahrávky a prepisy nahrávok, ktorých bude dostatok a s voľnou licenciou na vytvorenie ASR modelu buď nekomerčného, alebo aj na komerčné účely.
+ * Nazbierať nahrávky a prepisy nahrávok, ktorých bude dostatok a s voľnou licenciou na vytvorenie ASR modelu buď nekomerčného, alebo aj na komerčné účely.
+ * Zbieranie dát ktoré sú používané slovenskými dialektami, nárečiami, prípadne slovenská rómčina.
+ * Investovať čas do kontroly nahrávok, prečistenia a doladenia formy aby boli použiteľné na trénovanie ASR modelu.
+ * Zverejniť natrénovaný model, a modely podskupín (dialekty, príkazy, phonecall 8khz) a postupne ho zlepšovať
 
-Taktiež na zbieranie dát ktoré sú používané slovenskými dialektami, nárečiami, prípadne slovenská rómčina.
-
-# Prechodné odkazy na možné dáta:
+# Možné dáta:
 
 ## Librivox
 
@@ -33,6 +38,11 @@ https://commonvoice.mozilla.org/en/datasets
 Slovak
 Common Voice Corpus 11.0	9/21/2022	377.74 MB	Validated hours: 19	CC-0	145
 ~~~
+
+## Nezaradené
+
+ * https://sciendo.com/article/10.2478/jazcas-2021-0053
+ * RTVS
 
 # Štruktúra
 
@@ -58,3 +68,8 @@ Common Voice Corpus 11.0	9/21/2022	377.74 MB	Validated hours: 19	CC-0	145
    LicenseCC=CC BY-NC-ND 4.0 # from https://creativecommons.org/
    LicenseText= or url
 ~~~
+
+# kde môže byť výsledný model zverejnený, využitý
+
+ * https://alphacephei.com/vosk/ (publicly available ASR for PC and small computers)
+ * https://github.com/rhasspy/rhasspy (small computer voice assistant)
