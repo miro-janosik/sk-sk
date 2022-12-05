@@ -39,6 +39,18 @@ Slovak
 Common Voice Corpus 11.0	9/21/2022	377.74 MB	Validated hours: 19	CC-0	145
 ~~~
 
+## Tatoeba
+https://tatoeba.org/en/downloads
+
+## OpenSLR
+
+https://www.openslr.org/index.html
+https://www.openslr.org/12 librispeech
+
+## Other links
+
+https://github.com/hromi/our-voices-model-competition/tree/main/submit/Variant_Accent_Dialect/SlovakoCzech-band-C
+
 ## Nezaradené
 
  * https://sciendo.com/article/10.2478/jazcas-2021-0053
