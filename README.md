@@ -61,6 +61,10 @@ https://tatoeba.org/en/downloads
 https://www.openslr.org/index.html
 https://www.openslr.org/12 librispeech
 
+## OSCAR
+
+Check what is available. https://oscar-project.org/post/oscar-v22-01/
+
 ## Nezaradené
 
  - https://github.com/hromi/our-voices-model-competition/tree/main/submit/Variant_Accent_Dialect/SlovakoCzech-band-C
